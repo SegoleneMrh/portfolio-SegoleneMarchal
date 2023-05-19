@@ -1,9 +1,7 @@
 
 @import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap);
 @import url(https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap);
-@media (max-width: 480px) and (orientation: portrait) {
-  /* Styles spécifiques aux téléphones en mode portrait */
-}
+
 
 
 * {
@@ -178,4 +176,29 @@ button {
    border: none;
    background-color: transparent;
    width: 10%;
+}
+
+/* Votre code CSS existant */
+
+/* Media query pour les téléphones en mode portrait */
+@media (max-width: 480px) and (orientation: portrait) {
+  /* Styles spécifiques aux téléphones en mode portrait */
+  /* Placez ici les styles adaptés aux téléphones */
+  body {
+    margin: 10px;
+  }
+
+  p {
+    margin: 10px;
+    font-size: 20px;
+  }
+
+  #liste {
+    margin: 10px;
+    font-size: 20px;
+  }
+
+  header.header img {
+    width: 80px;
+  }
 }
