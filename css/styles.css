@@ -55,14 +55,14 @@ section.top-pageA {
 }
 
 section.top-pageE {
-    background: url('../images/Experiences.png');
+    background: url('../images/experiences.png');
     background-size: cover;
     height: 80vh;
     padding: 25px;
 }
 
 section.top-pageF {
-    background: url('../images/Formations.png');
+    background: url('../images/formations.png');
     background-size: cover;
     height: 80vh;
     padding: 25px;
