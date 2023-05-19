@@ -184,6 +184,79 @@ button {
     margin-left: 10px;
     margin-right: 10px;
   }
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap);
+
+* {
+    font-family: 'Montserrat';
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+p{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 25px;
+    text-align: justify;
+}
+
+#liste {
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 25px;
+    text-align: justify;
+}
+
+/* tete de page */
+/* ... */
+
+/* section.top-page */
+/* ... */
+
+/* section.top-pageA */
+/* ... */
+
+/* section.top-pageE */
+/* ... */
+
+/* section.top-pageF */
+/* ... */
+
+/* landing page */
+/* ... */
+
+/* nav.nav */
+/* ... */
+
+/* section-title */
+/* ... */
+
+/* A_propos_de_moi */
+/* ... */
+
+/* Experiences */
+/* ... */
+
+/* Formations */
+/* ... */
+
+/* footer */
+/* ... */
+
+/* container */
+/* ... */
+
+/* button */
+/* ... */
+
+/* Insérez la media query ici */
 
   p {
     margin-left: 10px;
